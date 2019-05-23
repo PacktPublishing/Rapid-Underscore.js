@@ -1,18 +1,6 @@
-# Rapid Flask [Video]
-This is the code repository for [Rapid Flask [Video]](https://www.packtpub.com/application-development/rapid-flask-video?utm_source=github&utm_medium=repository&utm_campaign=9781783554256), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+# Rapid Underscore.js [Video]
+This is the code repository for [Rapid Underscore.js [Video]](https://www.packtpub.com/web-development/rapid-underscorejs-video?utm_source=github&utm_medium=repository&utm_campaign=9781784391621), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
-Zurb Foundation is one of the most diffused best performing front-end design frameworks out there.
-
-Dealing with browser compatibility, media queries, style consistency, and effective layouts could be a huge pain today, but Foundation comes to the rescue. With minimal effort, it allows you to create a production ready, responsive website or is a great starting point for a highly customized project.
-
-Building a Responsive Site with Zurb Foundation will show you every major aspect of the framework, as well as general best practices and workflow tips, guiding you through the process of creating a live mock-up for a photography website. Every video will introduce some of Foundation's features and will use them to enhance the website in order to provide a practical experience with all the topics.
-
-The course begins with an empty folder, where we'll install the Zurb Foundation framework and will start adding new pages and enhancements to cover all the key aspects of the framework itself.
-
-We begin our journey by explaining why there is a need for a framework, how to set up a modern working environment, and how to scaffold a new project with Zurb Foundation. We'll then immediately introduce some responsive design key concept as well as the advantages of a mobile-first approach and how Foundation helps us with these scenarios.
-
-As we advance through the course, we'll introduce all the major aspects of the framework, translating them in working code for our website. We are going to deal with navigation techniques as well as typography, content elements, and forms. As we come to an end, we'll emphasize how to deal with media elements in a responsive environment, trying out different approaches to effectively show image galleries both on desktop and mobile.
-
 Underscore.js is a library of utility functions for JavaScript that helps to minimize the complexity most users face in building programs, that is, simplifying their JavaScript code. It can be used with any other library or framework and provides many useful methods for this very reason. It works great as an addition to jQuery, Angular.js, Backbone.js, or any other framework you might be using, or you can use it with plain old JavaScript.
 
 Rapid Underscore.js is a quick introduction to making the most of the Underscore.js library. Using a practical example project it shows you not just how but why you would want to use Underscore.js’ methods.
@@ -24,22 +12,20 @@ By the end of this course, you will understand how Underscore.js helps you to ef
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Python programming 
-<LI>Application programming 
-<LI>The semantics of general programming 
-<LI>The format of coding applications 
-<LI>All the functions of Python programming 
-<LI>Application programming </LI></UL></DIV>
+<LI><SPAN style="LINE-HEIGHT: 20px; BACKGROUND-COLOR: transparent">Develop an International Space Station application using the highly useful Underscore.js library</SPAN> 
+<LI><SPAN style="LINE-HEIGHT: 20px; BACKGROUND-COLOR: transparent">Integrate Underscore.js with your browser or Node.js-based JavaScript project</SPAN> 
+<LI><SPAN style="LINE-HEIGHT: 20px; BACKGROUND-COLOR: transparent">Process and transform arrays using Underscore’s iteration capabilities for performance enhancement</SPAN> 
+<LI><SPAN style="LINE-HEIGHT: 20px; BACKGROUND-COLOR: transparent">Group, sort, and filter of data for efficient data management</SPAN> 
+<LI><SPAN style="LINE-HEIGHT: 20px; BACKGROUND-COLOR: transparent">Use Underscore.js templating to simplify your HTML generation</SPAN> 
+<LI><SPAN style="LINE-HEIGHT: 20px; BACKGROUND-COLOR: transparent">Get a glimpse of other libraries such as Lodash that extend Underscore</SPAN> </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Basic Knowledge of JavaScript
-
+Basic Knowledge JavaScripts is essential.
 ### Technical Requirements
 This course has the following software requirements:<br/>
-NODE.JS
-JavaScript
+1. Underscore.js
 
 ## Related Products
 * [Hands-On Incident Response Analysis [Video]](https://www.packtpub.com/networking-and-servers/hands-incident-response-analysis-video?utm_source=github&utm_medium=repository&utm_campaign=9781838552046)
