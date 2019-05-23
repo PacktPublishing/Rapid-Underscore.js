@@ -34,7 +34,7 @@ By the end of this course, you will understand how Underscore.js helps you to ef
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Basic Knowledge JavaScript
+Basic Knowledge of JavaScript
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
